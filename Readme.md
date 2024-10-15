@@ -25,9 +25,9 @@ Systems Engineering studies  pursued at the National Technological University (U
 
 ### Career Goals
 
-[](https://github.com/AljureS#-career-goals)
 
 Aspiring to be a lead backend developer, I am eager to tackle challenging projects that test my skills and broaden my technological horizon. I am looking for opportunities to delve into scalable and secure backend solutions, aiming to contribute significantly to the technological success of visionary companies.
 
 ---
 Thank you for stopping by my profile! Feel free to reach out if you want to collaborate on exciting projects or exchange ideas! ☕
+📧: tomascampellone@gmail.com
