@@ -31,4 +31,4 @@ Aspiring to be a lead backend developer, I am eager to tackle challenging projec
 ---
 Thank you for stopping by my profile! Feel free to reach out if you want to collaborate on exciting projects or exchange ideas! ☕
 
-📧 email: tomascampellone@gmail.com
+📧 email: tomascampellone@gmail.com 📧
