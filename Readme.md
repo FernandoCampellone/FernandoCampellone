@@ -21,7 +21,7 @@ Full Stack Developer for SCRUM LATAM from Nov 2024 to Now
 
 Full Stack Developer focused on Back End. Henry Bootcamp. 800 hours of theoretical and practical course. 2024.
 
-Systems Engineering studies  pursued at the National Technological University (UTN) in Argentina, from 2017 to 2020
+Systems Engineering studies  pursued at the National Technological University (UTN) in Argentina, from 2017 to 2021
 
 ---
 
