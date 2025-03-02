@@ -9,9 +9,9 @@ I focus on aligning strategies with the objectives we pursue, ensuring that ever
 
 ###  🛠️ Technical Stack
 
--   **Languages**: Java, TypeScript, JavaScript
--   **Backend**: Node.js, NestJS, Express.js, Socket.io
--   **Databases**: MongoDB, PostgreSQL
+-   **Languages**: TypeScript, JavaScript
+-   **Backend**: Node.js, NestJS, Express.js
+-   **Databases**: MongoDB, PostgreSQL, Prisma
 -   **Misc**: JWT, bcrypt, Cloudinary, Nodemailer
 - ---
 
